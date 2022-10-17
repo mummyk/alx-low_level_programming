@@ -1,6 +1,6 @@
 /*
  * File: 3-op_functions.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Chibuzo Ikegwuonu.
  */
 
 #include "3-calc.h"

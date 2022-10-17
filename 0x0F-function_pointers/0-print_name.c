@@ -1,6 +1,6 @@
 /*
  * File: 0-print_name.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Chibuzo Ikegwuonu.
  */
 
 #include "function_pointers.h"

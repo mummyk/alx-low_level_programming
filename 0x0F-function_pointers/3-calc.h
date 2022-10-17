@@ -3,7 +3,7 @@
 
 /*
  * File: 3-calc.h
- * Auth: Gedeon Obae Gekonge
+ * Auth: Chibuzo Ikegwuonu.
  * Desc: Header file containing all structures and
  *       prototypes used by the 3-main.c program.
  */

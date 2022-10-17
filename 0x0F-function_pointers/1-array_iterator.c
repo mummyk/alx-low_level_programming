@@ -1,6 +1,6 @@
 /*
  * File: 1-array_iterator.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Chibuzo Ikegwuonu.
  */
 
 #include "function_pointers.h"

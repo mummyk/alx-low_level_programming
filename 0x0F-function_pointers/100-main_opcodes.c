@@ -1,7 +1,7 @@
 
 /*
  * File: 100-main_opcodes.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Chibuzo Ikegwuonu.
  */
 
 #include <stdio.h>

@@ -1,6 +1,6 @@
 /*
  * File: 2-main.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Chibuzo Ikegwuonu.
  */
 
 #include <stdio.h>
